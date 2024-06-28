@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @yuu-ichi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @yuu-ichi
 
-<!---
-yuu-ichi/yuu-ichi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Status
+
+### Stats
+
+
+<a href="https://github.com/yuu-ichi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuu-ichi&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/yuu-ichi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuu-ichi" />
+</a>
