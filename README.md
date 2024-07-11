@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @yuu-ichi
 
-+ I'm Web Developer In Japan
++ I'm Web Engineer In Japan
 
 ## My Status
 
